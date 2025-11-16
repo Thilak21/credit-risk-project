@@ -1,0 +1,4 @@
+Profile Type,Test Index,Default Probability,Actual Default,Top Feature,Max SHAP Impact
+High-Risk,5,0.79587305,0,PAY_0,0.3976855
+Low-Risk,4,0.12341822,0,PAY_0,0.50724036
+Borderline,3,0.42835483,1,PAY_0,0.51613146
