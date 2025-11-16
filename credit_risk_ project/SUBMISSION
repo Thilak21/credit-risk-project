@@ -210,7 +210,7 @@ Best CV ROC-AUC Score: 0.7807
 - Cumulative effect of multiple payment-related stress factors
 
 **Business Recommendation**: 
-⚠️ **IMMEDIATE INTERVENTION RECOMMENDED**
+**IMMEDIATE INTERVENTION RECOMMENDED**
 - Intensive monitoring of this customer
 - Consider temporary credit line reduction
 - Offer financial counseling or hardship programs
@@ -272,7 +272,7 @@ Protective Factors (Negative):
 - Net result: Balanced at 42.84% (right at decision boundary)
 
 **Business Recommendation**: 
-⚠️ **ENHANCED DUE DILIGENCE RECOMMENDED**
+**ENHANCED DUE DILIGENCE RECOMMENDED**
 - This customer sits at the margin of classification
 - Both risk and protective factors present
 - Recommend:
